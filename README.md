@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com o objetivo de otimizar a gestão de estoque e 
 
 O projeto elimina a necessidade de inspeção manual diária de centenas de itens, permitindo que a equipe se concentre apenas nos produtos que realmente precisam de atenção.
 
-![Screenshot da Planilha](https://via.placeholder.com/800x400.png?text=Insira+aqui+um+screenshot+da+sua+planilha+em+uso)
+![Screenshot da Planilha](Controle de Validade.png)
 
 ### ✨ Funcionalidades
 
