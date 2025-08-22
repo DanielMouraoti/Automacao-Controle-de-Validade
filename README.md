@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com o objetivo de otimizar a gestão de estoque e 
 
 O projeto elimina a necessidade de inspeção manual diária de centenas de itens, permitindo que a equipe se concentre apenas nos produtos que realmente precisam de atenção.
 
-![Screenshot da Planilha](Controle de Validade.png)
+![Screenshot da Planilha]([Controle de Validade.png](https://github.com/DanielMouraoti/Automacao-Controle-de-Validade/blob/main/Controle%20de%20Validade.png))
 
 ### ✨ Funcionalidades
 
